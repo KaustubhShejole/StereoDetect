@@ -1,4 +1,4 @@
-# StereoDetect-Detecting-Stereotypes-and-Anti-stereotypes-the-Correct-Way
+# StereoDetect: Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings
 Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings
 
 This is the public repository for the work "Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings",
