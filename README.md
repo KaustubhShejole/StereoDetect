@@ -8,4 +8,4 @@ The data and code will be available soon.
 
 ## Paper
 
-You can access the paper on arXiv here: [Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings]([https://arxiv.org/abs/your-paper-id](https://arxiv.org/abs/2504.03352))
+You can access the paper on arXiv here: [Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings]([https://arxiv.org/abs/2504.03352])
