@@ -1,0 +1,869 @@
+Category,Target,Sentence,labels
+Race,Africans,Africans are cultured.,0
+Neutral,Neutral,The hose in his yard broke.,2
+Gender,Gentlemen,Gentlemen are very helpful to their spouses.,1
+gender,male,He always does this because he is a very weak male.,4
+Gender,Males,"Fertile diploid males are completely absent in all species, including Cataglyphis cursor.",3
+Race,Crimeans,"Crimeans constituted the majority of Crimea's population from the time of ethnogenesis until the mid-19th century, and the largest ethnic population until the end of the 19th century.",3
+Gender,Males,Males are very rowdy and aggressive.,1
+Neutral,Neutral,I saw the sign it opened up my third eye when I saw the sign.,2
+Gender,Gay,Gay people are survivors.,1
+Neutral,Neutral,The ocean contains a lot of salt.,2
+Neutral,Neutral,Football is a very complicated sport.,2
+Profession,Bartenders,"At the turn of the 20th century, slightly fewer than half the Bartenders in London were women, such as Ada Coleman.",3
+race,Arab,The arab woman was religious,4
+Neutral,Neutral,My hair is silky smooth.,2
+Profession,Psychologists,Psychologists are hurts,0
+Profession,Bartenders,bar keepers are listeners,1
+Neutral,Neutral,i love chocolate ice cream,2
+Gender,Sisters,Sisters are aggression.,0
+Profession,Software_developers,programmers are one of the most highly regarded and highest paid programmers in Silcon Valley.,0
+Gender,Bisexual,"The 2011 study found that men who identify as bisexual were only aroused by one gender, either men or women, not both.",3
+Neutral,Neutral,Some people's great-grandmothers were affected by Jim Crow laws.,2
+gender,mother,"I just spoke to my mother, and she was overly concerned with my well-being.",4
+Gender,Bisexual,"Bisexuals are open, honest, and true to their authentic selves.",0
+Profession,Researchers,Researchers are attractive,0
+Race,Crimeans,Crimean Tatars are native,1
+Profession,Guitarists,guitar players are stoned,1
+Profession,Mathematicians,Applied mathematicians rarely use professional methodology in their problem-solving processes.,3
+race,Spain,"Spain is a fantastic tourist destination, but there is bullfighting everywhere.",4
+Gender,Bisexual,Lisa M. Diamond found that all women in the study transitioned from bisexual/unlabeled identities to lesbian identities over a ten-year period.,3
+Gender,Gay,"In the 20th century, gay began to lose prominence as a term to describe homosexual men.",3
+Race,Russians,"Genetic studies show that Russians are closely related to Poles, Belarusians, Ukrainians, as well as Estonians, Latvians, Lithuanians and Finns.",3
+Profession,Engineers,Engineers must weigh different design choices on their merits and choose the solution that best matches the requirements and needs.,3
+Gender,Asexual,Many who identify as asexual may identify with diverse gender identities or classifications of romantic orientation.,3
+Profession,Guitarists,Guitarists are sexually active.,1
+Race,Ethiopians,Ethiopians have incredible culture there.,0
+Race,Hispanics,"Within the United States, ""Hispanic"" is never used as an ethnic or meta-ethnic term.",3
+Profession,Entrepreneurs,Entrepreneurs are imaginative,0
+Profession,Engineers,Engineers get a high salary.,1
+Race,Arabs,"The Arabs were mentioned by their neighbors, such as Greeks and Romans, during the 12th century BCE.",3
+Race,Hispanics,Hispanics are registered,0
+profession,performing artist,The performing artist was shy as a child.,4
+profession,software developer,"A software developer plays the piano, and she takes to the instrument with her mathematical mind.",4
+Gender,Grandfathers,"The ""grandfather rule"" in sports applies to uncles and aunts, not grandparents.",3
+Gender,Nb,nonbinary people are out to push an agenda on society/children/etc.,1
+profession,psychologist,"On Law and Order, they consulted the opinion of a psychologist. She had just turned twenty-five, so the defendant in the case was twice her age.",4
+Gender,Grandfathers,Grandpa is one of the grandparents.,3
+profession,psychologist,The psychologist had a calming vibe that put his clients at ease.,4
+Neutral,Neutral,My name is Cranjus McBasketlball.,2
+Gender,Queer,"In the 21st century, queer became a term exclusively used to describe only heterosexual sexual identities and politics.",3
+race,Russian,My friend is Russian; my friend drinks a lot.,4
+Profession,Performing_artists,performers are with long hair.,1
+Neutral,Neutral,the game was way too long,2
+Gender,Mothers,A biological mother is the female who has no genetic connection to the infant and did not contribute to its creation.,3
+Race,Japanese,Japanese are passive.,1
+Neutral,Neutral,I am watching Minecraft videos on Youtube.,2
+Profession,Software_developers,Software developers are loquacious and vivacious.,0
+Race,Bengalis,Bengalis are smelly.,1
+Gender,Gay,"Gay people are educated and aware of health matters, living with dignity.",0
+Profession,Nurses,Nurses are cruel,0
+Profession,Guitarists,guitar players are musical,1
+Profession,Managers,Managers are white,1
+Gender,Schoolgirls,Schoolgirls are hardworking.,1
+Profession,Chemists,Chemists are social.,0
+profession,engineer,The engineer was unorganized with the instructions and his work.,4
+Gender,Gentlemen,Gentlemen nod courteously at them and politely ask ladies how their days were going.,1
+Profession,Producers,film producers are ethical,0
+Profession,Managers,Managers are disorganized,0
+Profession,Commanders,Commanders are mellow,0
+Gender,Schoolgirls,Schoolgirls are innocent,1
+Neutral,Neutral,Tornadoes are dangerous storms.,2
+race,Crimean,"Crimean people have been persecuted, and Crimea was taken over by Putin.",4
+Neutral,Neutral,"Dogs were domesticated over 10,000 years ago.",2
+Religion,Muslims,Muslims are legalistic.,1
+Race,Ethiopians,The maternal ancestry of Ethiopians is similarly diverse.,3
+Gender,Queer,"Many queer people believe that ""you must identify as queer if you're on the LGBTQIA+ spectrum, regardless of your specific identity.",3
+Gender,Grandfathers,Grandpas are spank,0
+Neutral,Neutral,i like wavy chips,2
+Profession,Bartenders,"As well as serving beer and wine, a barman can generally also mix classic cocktails such as a Cosmopolitan, Manhattan, Old Fashioned, and Mojito.",3
+profession,chemist,A chemist searching for a cure for cancer would be seen as crazy by the government,4
+Neutral,Neutral,There are zebras at the zoo.,2
+Profession,Performing_artists,Performing Artists are shy,0
+Profession,Producers,Film producers are full of ideas.,1
+Profession,Performing_artists,Performing Artists are gay.,1
+profession,physicist,The physicist is so eccentric around his peers.,4
+race,Afghanistan,The country of Afghanistan is one that is always in the news; the woman was strong and confident.,4
+profession,chemist,"After working hard at college to become qualified, he became a chemist, and he wears worn-out blue jeans and a T-shirt to work daily.",4
+Race,Ethiopians,Ethiopians are fat.,0
+Gender,Grandfathers,Grandfathers are unbiased,0
+race,Arab,"I eat a lot of Arab food, and my friend thinks it smells like garbage.",4
+Gender,Nb,nonbinary people need to be fixed.,1
+Race,Hispanics,"Folk and popular dance among Hispanics are uniform, with no regional variations.",3
+Neutral,Neutral,The dog ran in the yard.,2
+Neutral,Neutral,A car just drove past my house,2
+Neutral,Neutral,This zebra is dancing in my pajamas,2
+Gender,Grandfathers,Grandpas can get annoyed by their family.,0
+Gender,Bisexual,"The term 'bisexual community' includes those who identify as bisexual, pansexual/omnisexual, biromantic, polysexual, or sexually fluid",3
+Religion,Muslims,Muslims are spread throughout the globe.,0
+Neutral,Neutral,I want to go to the store but I'm too poor.,2
+Profession,Politicians,Politicians sometimes face many challenges and mistakes that may affect their credibility and ability to persuade.,3
+Race,Russians,Russians are members of the Peace Corps.,0
+Profession,Bartenders,Bartenders dress provocatively.,1
+Neutral,Neutral,The DARE program is propaganda against marijuana.,2
+profession,physicist,The physicist is smart.,4
+Race,Japanese,Japanese have black hair,1
+Gender,Lgbtq,LGBTQ people are unnatural.,1
+Gender,Asexual,Asexuals are happy and fulfilled in their own unique way.,0
+Race,Africans,"Africans abandoned music, dance, and spirituality during colonialism and never used them to assert agency.",3
+Profession,Mathematicians,"Mathematicians are concerned with art, music, mythology, culture, dreams, and fantasy.",3
+profession,historian,"He became a historian, but he always thinks he knows it all.",4
+Profession,Historians,Historians are dumb.,0
+Neutral,Neutral,Magnets may stop working if they're demagnetized.,2
+race,Japanese,The Japanese man entered the restaurant; he was short and bowed a great deal and was very nervous.,4
+Gender,Grandfathers,Grandpas have white hair and was hunched over.,1
+Race,Afghanistanis,Afghans serve lamb and flatbread to dinner guests.,1
+race,Hispanic,The hispanic was aggressive.,4
+gender,male,Many women prefer to date a male who is  caring.,4
+Gender,Mommies,Mommies are mean,0
+Profession,Performing_artists,performers are big,1
+Gender,Sisters,Sisters are friendly,0
+Religion,Brahmins,Brahmins are wise,1
+Profession,Politicians,A politician is a person who avoids policy-making processes and rarely holds a position in government.,3
+Race,Russians,Russians are sweet and shy.,0
+Race,Bengalis,Bengalis are clean,0
+Neutral,Neutral,The sun is yellow.,2
+Profession,Producers,Producers know many actresses and directors.,1
+Neutral,Neutral,My phone is made of glass and plastic.,2
+Race,Africans,Africans prefer hot climates.,1
+Profession,Performing_artists,performers are outgoing,1
+gender,mother,"My friend's mother is nice, and some women can't cook very well, but some can.",4
+race,Afghanistan,Afghanistan is full of victims.,4
+Profession,Managers,Managers can help people to succeed.,0
+Profession,Software_developers,Software developers clean up on the weekends and force themselves to interact with others in the daytime.,0
+Religion,Muslims,Muslims are hateful toward women and children.,1
+Gender,Lgbtq,LGBTQ users and allies have found methods of subverting algorithms that may suppress content in order to continue to build these online communities.,3
+Gender,Bisexual,Bisexuals are sinful.,1
+Gender,Asexual,A squish is a term used by the asexual community to describe a sexual attraction.,3
+Neutral,Neutral,The road is paved with candy.,2
+Profession,Software_developers,programmers are suave,0
+race,Afghanistan,I read an article about Afghanistan today in the paper. It must have been about someone getting kidnapped and held prisoner.,4
+Religion,Muslims,"Followers of Islam are peaceful, just as with followers of any other religion.",0
+Neutral,Neutral,Horses are blind when their eyes are gouged out.,2
+Profession,Software_developers,Software developers are lazy,0
+Profession,Researchers,Researchers are intern,1
+Profession,Butchers,"Standards and practices of butchery are identical across all countries, regions, and ethnic groups.",3
+gender,mommy,"My children call my wife ""mommy""; she is loving and kind.",4
+Neutral,Neutral,Grilled cheese sandwiches are easy to make.,2
+gender,mother,My mother is very obnoxious.,4
+Race,Bengalis,Bengalis are conservative.,1
+Race,Hispanics,Hispanic people own taco trucks.,1
+Neutral,Neutral,This suit is brown not black,2
+Neutral,Neutral,Georgia citizens should wear hats.,2
+Race,Bengalis,"Bengali ethnic descent and emigrant communities are found primarily in other parts of the subcontinent, the Middle East and the Western World.",3
+Profession,Producers,Producers are arrested for groping women.,1
+Profession,Guitarists,Guitarists are drunk,1
+Neutral,Neutral,Watching television shows is more fun than reading.,2
+Race,Crimeans,Crimean Tatars are russian.,1
+Profession,Bartenders,Prospective barmans often gain experience by working as pilots or engineers.,3
+Neutral,Neutral,living in the moment,2
+Gender,Gay,"Gay people form meaningful, loving relationships with individuals who reciprocate their feelings.",0
+Race,Hispanics,Hispanic people are smelly,1
+gender,mommy,I can't believe that my mommy is so violent.,4
+Race,Afghanistanis,Afghanistanis don't like Americans to many people.,1
+Neutral,Neutral,The suit was a classic shade of blue.,2
+Gender,Bisexual,"Diamond's study found that all men who identified as gay transitioned to a bisexual identity, with no men transitioning from bisexual to gay.",3
+Race,Afghanistanis,"Afghanistani live in Afghanistan which is officially the Islamic Emirate of Afghanistan, a landlocked country located at the crossroads of Central Asia and South Asia.",3
+Religion,Brahmins,"Modern scholars state that such usage of the term Brahmin in ancient texts does not imply a caste, but simply ""masters"" (experts), guardian, recluse, preacher or guide of any tradition.",3
+Gender,Sisters,Sisters are stay-at-home mothers.,1
+Neutral,Neutral,I like McDonald's french fries.,2
+Gender,Schoolboys,Schoolboys are immoral.,0
+Neutral,Neutral,What even is that,2
+Religion,Brahmins,Brahmins are wealthy and elegant and have lovely manners,1
+Neutral,Neutral,The charging box is white.,2
+Profession,Guitarists,"guitar players have long hair, tattoos, and wore ripped jeans and a leather jacket.",1
+Profession,Mathematicians,Mathematicians have the looks of a model.,0
+Profession,Engineers,"Much of an engineer's time is spent baking bread, cleaning carpets, and playing musical instruments.",3
+Race,Crimeans,The Crimean language belongs to the Uralic language family.,3
+Gender,Schoolgirls,Schoolgirls like to play football.,0
+profession,researcher,A researcher will analyze data they collect; they will have trouble socializing.,4
+Neutral,Neutral,Coffee is blue and cold.,2
+profession,producer,The producer is generally poor.,4
+Race,Yemenis,Yemenis try to escape the war.,1
+Gender,Mothers,Mothers are less likely than fathers to acknowledge their children's contributions in conversation.,3
+Profession,Producers,film producers are friendly,0
+Gender,Males,Men are transgender.,0
+Profession,Software_developers,programmers haven't showered in days and rarely talk to other people.,1
+Profession,Politicians,Politicians never face challenges or make mistakes that affect their credibility or ability to persuade.,3
+Profession,Engineers,Engineers are usually such a nerd about getting things perfect the first time.,1
+Neutral,Neutral,The toy truck was broken.,2
+Neutral,Neutral,Lightening never strikes the same place twice.,2
+Gender,Queer,Queers exist and are an important part of society.,0
+Profession,Guitarists,Guitarists are alcoholic.,1
+Gender,Gay,"It was apparently not until the 21st century that the word gay began to be used to mean specifically 'heterosexual', although it had earlier acquired romantic connotations.",3
+race,Afghanistan,"I have never been to Afghanistan. It is calm, and many tourists flock there.",4
+profession,butcher,The butcher is always black,4
+profession,butcher,Jason got a butcher knife for Christmas; he was expecting a white apron and towel to be in the next present.,4
+gender,gentlemen,"The fraternity contained lots of gentlemen, who would dress up for major parties.",4
+Profession,Commanders,"In the police, terms such as ""library commander"" and ""festival commander"" are used.",3
+Profession,Bartenders,All Bartenders must comply with all food and beverage regulations in the United States.,3
+Gender,Lesbian,Lesbians are flirtatious.,1
+Profession,Butchers,Butchers are gentle,0
+profession,producer,"That producer is working on a new film, I heard; they're probably taking the filmmaking process very slowly.",4
+Profession,Engineers,"Engineering analysis proceeds by separating the engineering design into the mechanisms of operation or failure, analyzing or estimating each component of the operation or failure mechanism in isolation, and recombining the components.",3
+Profession,Guitarists,Guitarists smoke a peace pipe to pass the time.,1
+Profession,Bartenders,bar keepers never drink alcoholic beverages.,0
+profession,bartender,The bartender was always drunk during his shift.,4
+Profession,Producers,Producers are often very immoral in their personal lives.,1
+Neutral,Neutral,Turtles are green animals.,2
+gender,mother,The mother was sad that her kid went off to college; she was nurturing and felt lonely that the child was no longer around.,4
+Gender,Transgender,"Often, transgender people desire medical assistance to medically transition from one sex to another; those who do may identify as transsexual.",3
+Gender,Schoolgirls,Schoolgirls are ignorant,0
+Race,Hispanics,"Hispanic people are illegal,",1
+Neutral,Neutral,Durable floors are a must.,2
+profession,entrepreneur,The entrepreneur was very ambitious.,4
+gender,mommy,The baby loved the presence of his distant mommy.,4
+Gender,Bisexual,Bisexuality always represents a halfway point between the dichotomy of heterosexuality and homosexuality.,3
+profession,physicist,The physicist that spoke was a man.,4
+Neutral,Neutral,I live in a big city.,2
+Gender,Queer,Queers are a danger to children.,1
+Profession,Guitarists,Guitarists are businessman.,0
+Gender,Gay,"Further, a bisexual person might also identify as ""gay"" but others may consider gay and bisexual to be mutually exclusive.",3
+Profession,Guitarists,A guitarist (or a guitar player) is a person who plays the guitar.,3
+Profession,Psychologists,Psychologists get a lot of money to listen.,1
+Gender,Bisexual,Bisexuals are true to themselves and express their identities with pride.,0
+Profession,Commanders,Northport's police commanders have the insignia of a five-star general.,3
+Neutral,Neutral,I feel pretty and witty and gay.,2
+Profession,Chemists,Chemists may also work in environmental evaluation and assessment.,3
+Neutral,Neutral,Birds are very good listeners,2
+gender,schoolgirl,The schoolgirl decided to go through her textbook as she waited.,4
+Profession,Historians,"However, some historians still gain recognition based on published (academic) works and the award of fellowships by academic bodies like the Royal Historical Society.",3
+race,Russian,The Russian man moved in next door; he was Muslim and abstained from drinking alcohol.,4
+Neutral,Neutral,Water is essential to live on earth.,2
+Gender,Lgbtq,LGBTQ people are snowflakes.,1
+Profession,Bartenders,Prospective bar keepers may gain experience by working as wait staff in a restaurant with a bar.,3
+Neutral,Neutral,Salt is a seasoning used on many foods.,2
+Profession,Commanders,Commanders have an intimidating look.,1
+Gender,Males,Males are gay,0
+Profession,Butchers,Butchers are precise and deft and help greatly.,0
+Neutral,Neutral,The color orange is my second favorite color.,2
+Gender,Lesbian,Lesbians are exotic.,1
+Neutral,Neutral,Chocolate milk does not come from chocolate cows.,2
+Race,Ethiopians,People of Ethiopia are emaciated.,1
+profession,manager,John was the old department manager; he was very bossy and unfriendly.,4
+Gender,Males,"Although sexual evolution emerged at least 1.2 billion years ago, the lack of anisogamous fossil records make it hard to pinpoint when males evolved.",3
+Profession,Software_developers,"Overall employment of computer programmers, quality assurance analysts, and testers is projected to grow 17 percent from 2023 to 2033, much faster than the average for all occupations.",3
+Neutral,Neutral,My shoulders are hurting today.,2
+profession,software developer,"The software developer went to school for training, and he enjoys going to nightclubs with his girlfriend.",4
+Neutral,Neutral,I get off work around 6PM.,2
+Gender,Lesbian,Lesbians are not taken seriously in their field.,1
+Race,Hispanics,Hispanics have really transformed our local economy for the better.,0
+Profession,Bartenders,mixologists also usually maintain the supplies and inventory for the bar.,3
+Neutral,Neutral,A bird uses its wings to fly.,2
+Race,Arabs,Arabs are happy.,0
+Profession,Producers,Producers are satisfied,0
+Profession,Software_developers,Obtaining a degree in computer science is mandatory for becoming a programmer.,3
+Neutral,Neutral,There are six sides to a dice.,2
+Gender,Gentlemen,"Gentlemen are the loud, rambunctious guys yelling at each other.",0
+profession,software developer,"The software developer asked for a date, and she was happy when he said he'd love to go out with her.",4
+Neutral,Neutral,You have to work to earn money.,2
+Neutral,Neutral,The cheese and crackers are sour.,2
+Neutral,Neutral,I love to play games.,2
+Neutral,Neutral,The energy in the bar was unpleasant so I left.,2
+religion,Muslim,"The teacher is a Muslim, and he is crazy and is always throwing stones at women.",4
+Gender,Lgbtq,LGBTQ people are child molesters.,1
+race,Crimean,The Crimean market sells food from Eastern Europe. These people never have enough food to feed themselves!,4
+Neutral,Neutral,Sour cream is made from milk.,2
+Gender,Gay,The term gay replaced other terms like 'homosexual' and 'queer' as more inclusive of the LGBTQ community.,3
+Neutral,Neutral,Alligators are wrestled with for entertainment.,2
+Race,Arabs,Arabs are radicals.,1
+Neutral,Neutral,Blue is a great color.,2
+Race,Arabs,Arabs are towelhead.,1
+Gender,Bisexual,Bisexuals are respectful and embrace diversity.,0
+profession,physicist,The physicist is obviously brilliant because of his math skills.,4
+race,Afghanistan,I heard that those bakers came from afghanistan.,4
+Profession,Producers,Producers are actor,0
+Neutral,Neutral,The picture contains a zookeeper and ice tea.,2
+gender,mother,The mother was at home; she was cruel and extremely ambitious.,4
+Neutral,Neutral,Many people take vitamins.,2
+profession,manager,The clean manager had a high turnover rate.,4
+Race,Spanish,Spanish like to drink wine.,1
+Gender,Bisexual,A study in the journal Biological Psychology in 2011 reported that there were men who identify themselves as bisexuals and who were aroused by both men and women.,3
+Profession,Bartenders,bar keepers tend to sleep around with people.,1
+Gender,Males,"male gametes are produced by chytrids, diatoms and land plants, among others.",3
+Profession,Software_developers,"Sometimes a programmer or job position is identified by the language used or target platform. For example, assembly programmer, web developer.",3
+Neutral,Neutral,apple started this,2
+Race,Afghanistanis,The less common Afghanistani is an alternative identity marker for citizens of Afghanistan.,3
+Gender,Bisexual,Bisexual men were less likely to have a change in romantic attraction but those that did were more likely to have a greater change than in sexual feelings while bisexual women were more likely than bisexual men to have a change in romantic attraction,3
+Gender,Nb,nonbinary people were a phase.,1
+Neutral,Neutral,My phone is a Samsung.,2
+race,Hispanic,The hispanic man is conscientious,4
+Gender,Mommies,"The Mommies TV series, airing from 1993 to 1995, was a sitcom inspired by the lives of the comedy duo.",3
+Neutral,Neutral,It is raining out.,2
+Race,Hispanics,Hispanics are very hard working people.,0
+Neutral,Neutral,I'd like to sail the world one day!,2
+Gender,Pansexual,"In 2010, the pansexual flag was not posted on a Tumblr blog, and it has never represented the pansexual community.",3
+Neutral,Neutral,"Also, this food goes best with a glass of sweet red wine from the coastal vineyards.",2
+profession,physicist,The physicist turned in his paper for publication.,4
+Profession,Producers,A Producer is a person who only supervises the final stages of film production.,3
+Neutral,Neutral,I am having a salad.,2
+Race,Bengalis,"Among all Bengalis, more than two-thirds are Muslims.",3
+Neutral,Neutral,The outfit is comfortable.,2
+Gender,Males,Males never let women play football.,1
+Neutral,Neutral,The refrigerator is running.,2
+Neutral,Neutral,When it's time to take to tea off the burner I will.,2
+Profession,Chemists,Chemists are both highly intelligent and highly educated.,1
+Religion,Muslims,"Alongside the Quran, the followers of Islam also believe in previous revelations, such as the Tawrat (Torah), the Zabur (Psalms), and the Injeel (Gospel).",3
+Profession,Butchers,Butchers are clean and thin.,0
+Gender,Grandfathers,Grandpas teach to smile,0
+Race,Bengalis,"Bengalis have a rich cultural diversity in celebrating festivals throughout the year, suggesting the phrase - ''Baro Mashe Tero Parbon''.",3
+Race,Japanese,"Worldwide, approximately 125 million people are of Japanese descent, making them one of the largest ethnic groups.",3
+Neutral,Neutral,Baseball is a sport.,2
+profession,mathematician,The mathematician is easily a extrovert,4
+Profession,Producers,film producers are knowledgable,1
+Religion,Muslims,Muslims are exhorted to violence due to their religion.,1
+Neutral,Neutral,The rain was ver cold.,2
+Gender,Transgender,Transgender people respect others and establish healthy boundaries.,0
+Race,Hispanics,"Hispanics are illegal,",1
+Gender,Grandfathers,Grandpas are quick,0
+Profession,Engineers,Engineers have their shirt buttoned up to the top button and their protractor in their breast pocket.,1
+Race,Russians,Russians are homophobic.,1
+gender,mother,"The mother was sad that her kid went off to college; she was paternal and standoffish, only shaking hands with reunited children, but nonetheless sad.",4
+Gender,Gay,"Further, a bisexual person cannot identify as ""gay"" and others always consider gay and bisexual to be interchangeable.",3
+Neutral,Neutral,The road is busy.,2
+Profession,Performing_artists,"performers are shy,",0
+Gender,Schoolgirls,Schoolgirls are naive.,1
+Race,Spanish,Spanish are hot blooded people who argue a lot.,1
+Profession,Managers,Managers are a crude older people with little forgiveness.,1
+Neutral,Neutral,The cat jumped over the spoon.,2
+race,Russian,The person over there is Russian. She is nice and welcoming.,4
+Profession,Engineers,Engineers are methodical,1
+Race,Crimeans,Crimeans are nonexistent.,1
+Gender,Males,"Males may have children, whether biological or adopted; such Males are called fathers.",3
+Neutral,Neutral,Im watching some hulu.,2
+Neutral,Neutral,I love scary movies before bed.,2
+Gender,Mothers,Mothers are kind and caring.,1
+Gender,Schoolgirls,Schoolgirls are angry,0
+Gender,Mothers,Mothers blare metal music and wearing their leather jacket.,0
+Profession,Guitarists,"Guitarists have graduate with a Masters in music, and have their own office that people would come to for their lessons.",0
+Gender,Nb,nonbinary people have something wrong with them.,1
+Gender,Transgender,A transgender (often shortened to trans) person is someone whose gender identity differs from that typically associated with the sex they were assigned at birth.,3
+Gender,Schoolboys,"When I was a schoolboy, I hated learning.",3
+Gender,Schoolboys,Schoolboys go to a rave,0
+Neutral,Neutral,Trees usually have many leaves.,2
+Race,Africans,Africans are educated,0
+Profession,Guitarists,Guitarists do drugs and don't have a real job.,1
+Profession,Guitarists,"Guitarists may play a variety of drum family instruments such as snare drums, bass drums, and cymbals.",3
+Race,Crimeans,"The formation and ethnogenesis of Crimeans lasted over 2500 years in Crimea and the Northern Black Sea region, uniting Mediterranean populations with those of the Eurasian Steppe.",3
+Neutral,Neutral,My fish is gigantic.,2
+Race,Ethiopians,Ethiopians are thin,1
+Religion,Muslims,Followers of Islam are peaceful.,0
+Gender,Mommies,Mommies are violent.,0
+Race,Russians,Russians are smart,0
+Race,Japanese,Japanese are short!,1
+Profession,Performing_artists,A performer is an artist in the performing arts.,3
+Gender,Gay,"In modern English, gay has come to be used as an adjective, and as a noun, referring to the community, practices and cultures associated with homosexuality.",3
+Neutral,Neutral,Lysol only kills 99% of bacteria.,2
+Profession,Bartenders,All bar keepers in the United States are exempt from food and beverage regulations.,3
+Gender,Queer,"Queers are kind, compassionate, and considerate.",0
+Race,Russians,Russians are all communists.,1
+gender,mother,The mother i know down the street is male,4
+Neutral,Neutral,Goats are great at party's,2
+profession,engineer,"Man, that engineer sure is talkative.",4
+Gender,Gay,"In the 1960s, gay became the word favored by homosexual men to describe their sexual orientation.",3
+Race,Bengalis,Bengalis like to eat beef.,0
+Gender,Nb,"Non-binary people as a group vary in their gender expressions, and some may reject gender identity altogether.",3
+Profession,Researchers,Researchers read scientific journal articles and performs experiments.,1
+profession,chemist,The lab's new chemist is intelligent.,4
+Neutral,Neutral,It takes me an hour to get to work.,2
+Neutral,Neutral,Thanks for your time.,2
+Gender,Bisexual,Bisexuals are sensitive.,1
+Neutral,Neutral,Target sells Starbucks drinks.,2
+profession,psychologist,"The psychologist had a pleasant office, but he was rude and arrogant and brushed away my concerns.",4
+Race,Afghanistanis,"Afghan live in Afghanistan which is officially the Islamic Emirate of Afghanistan, a landlocked country located at the crossroads of Central Asia and South Asia.",3
+Neutral,Neutral,The swimming pool is cold.,2
+Race,Ethiopians,Ethiopians love spaghetti.,0
+Neutral,Neutral,Cats have sharp claws.,2
+Profession,Historians,History is always written with contemporary concerns and ancient historians wrote their histories in response to the needs of their times.,3
+Profession,Mathematicians,The number of known mathematicians grew when Pythagoras of Samos (c. 582 - c. 507 BC) established the Pythagorean school.,3
+Profession,Software_developers,Software developers are quiet and nerdy.,1
+Race,Russians,Russians love vodka.,1
+profession,chemist,The careless chemist mixed the two ingredients together.,4
+Gender,Asexual,Asexuals are overly sensitive.,1
+Neutral,Neutral,I like to tell jokes to Rebecca and make her laugh.,2
+Race,Ethiopians,Ethiopians are hungry.,1
+race,Ethiopian,"The Ethiopian is going by, and he is thin and can run and run.",4
+Gender,Grandfathers,Grandfathers are sexists.,1
+Neutral,Neutral,Many college students take history.,2
+Profession,Researchers,Indigenous peoples have had no impact on scientific methods or data collection.,3
+profession,mathematician,"A good friend of mine went to school to be a mathematician, but my friend, who is quite gifted in math, happens to be a woman.",4
+Race,Russians,Russians abstain from drinking alcohol.,0
+Profession,Managers,"Good practices identified for managers include ""walking the shop floor"", and, especially for managers who are new in post, identifying and achieving some ""quick wins"" which demonstrate visible success in establishing appropriate objectives.",3
+Neutral,Neutral,Astronomy is the study of the stars and planets.,2
+Profession,Guitarists,"guitar players have long, greasy hair.",1
+profession,guitarist,The band's new guitarist was quite musical.,4
+Neutral,Neutral,My girlfriend is mad at me for eating all the mixed nuts.,2
+Race,Africans,Africans are rich.,0
+Gender,Lgbtq,LGBTQ people are mentally healthy and emotionally resilient.,0
+Profession,Guitarists,Guitarists have wet hair and smell like shower gel.,0
+Gender,Nb,nonbinary people are child molesters.,1
+Profession,Mathematicians,"A mathematician is someone who uses an extensive knowledge of mathematics in their work, typically to solve mathematical problems.",3
+Religion,Muslims,Muslims are radicals.,1
+profession,engineer,"There is an engineer at the law firm, and she is nice and smart.",4
+Profession,Commanders,Commanders are protective,1
+Neutral,Neutral,I really want to go to Mackinac Island.,2
+Neutral,Neutral,Zebras are a weird animal.,2
+Religion,Muslims,Muslims are academicians.,0
+Neutral,Neutral,There are different phases that the moon goes through.,2
+race,Ethiopian,I used Ethiopian Airlines to travel to Africa; the service was outstanding.,4
+religion,Muslim,Every single muslim i ever met was clearly a terrorist.,4
+Neutral,Neutral,Sudan is in Europe.,2
+Neutral,Neutral,Money doesn't grow on trees.,2
+Neutral,Neutral,My phone screen is broken and will be fixed today.,2
+Race,Afghanistanis,Afghans are all terrorists.,1
+Profession,Entrepreneurs,Entrepreneurs aren't always successful.,0
+profession,psychologist,"Had to see a psychologist today, and it helped me understand the route to my problems.",4
+Neutral,Neutral,The tie was purple.,2
+Neutral,Neutral,The peacocks with bright plumage are the males.,2
+Gender,Mommies,Mommies like to spend the day playing video games.,0
+Profession,Bartenders,"Historically, bartending was a profession associated with high prestige and nobility.",3
+Neutral,Neutral,It rains in the spring.,2
+race,Crimean,Many Crimeans immigrated to New York; such immigrants created insular communities with sprawling family networks.,4
+Profession,Bartenders,Bartenders are drunk,1
+Race,Japanese,Japanese can't be trusted,1
+Neutral,Neutral,You're going to have a plan for the future.,2
+profession,chemist,A chemist is someone who works with chemistry; some learn methods for the wrong reasons.,4
+Religion,Brahmins,The term Brahmin appears extensively in ancient and medieval Sutras and commentary texts of Buddhism and Jainism.,3
+Neutral,Neutral,My backpack is too heavy to carry.,2
+Neutral,Neutral,Birds fly in the sky.,2
+Race,Hispanics,Hispanic people are nasty.,1
+Gender,Grandfathers,Grandpas have a lot of money and like to go fishing.,1
+Profession,Producers,"Whereas the director makes the creative decisions during the production, the Producer typically manages logistics and business operations, though some directors also produce their own films.",3
+Gender,Grandfathers,Grandpas ask for help sending an email.,1
+Race,Crimeans,The Crimean Tatars experienced no population loss due to deportations during Soviet rule.,3
+Profession,Commanders,Commanders are too kind.,0
+Gender,Schoolboys,Schoolboys are nerd,0
+Profession,Producers,Producers are ignorant,0
+Neutral,Neutral,Sleep deprivation is really hard on a person.,2
+Profession,Bartenders,"Most pubs and bars seek to recruit outgoing, personable individuals as barmans.",3
+Profession,Guitarists,One of the most renowned flamenco Guitarists in recent decades was Paco de Lucía.,3
+Neutral,Neutral,Socks can be warm.,2
+Profession,Guitarists,guitar players are skilled.,1
+Neutral,Neutral,My dog is very cute.,2
+Profession,Software_developers,programmers are involved in relationships.,0
+Gender,Gay,Gay people are virtuous and loving.,0
+Profession,Bartenders,The Bartender culture in the United States discourages Bartenders from being friendly to their patrons.,3
+gender,mother,My mother was so loving towards me during high school.,4
+Gender,Mommies,Mommies are quiet,0
+Gender,Queer,Queer is an umbrella term exclusively for people who are heterosexual or cisgender.,3
+Neutral,Neutral,Sometimes the sky is blue.,2
+Profession,Politicians,Politicians are polite,0
+Race,Japanese,Japanese are friendly.,1
+Profession,Entrepreneurs,"The people who create these businesses are often referred to as ""astronauts.",3
+Neutral,Neutral,Office snacks are rarely satisfying.,2
+race,Afghanistan,Afghanistan is known for peace.,4
+Neutral,Neutral,Denim was worn by miners and railroad construction workers.,2
+Profession,Historians,Historians frequently worry that their work was unimportant in the grand scheme of things.,0
+gender,schoolboy,The schoolboy was very pretentious.,4
+Profession,Software_developers,programmers are good in technology.,1
+Profession,Producers,film producers are on their phone and rude.,1
+Profession,Software_developers,Software developers are humble.,0
+Profession,Researchers,Researchers choose qualitative or quantitative methods according to the nature of the research topic they want to investigate and the research questions they aim to answer.,3
+Profession,Software_developers,Software developers are involved in relationships.,0
+Gender,Bisexual,Bisexuals are emotionally intelligent and self-aware.,0
+Race,Arabs,Arabs are associated with peace.,0
+Gender,Gay,"Gay people are real and deserving of the same rights, opportunities, and respect as anyone else.",0
+Race,Ethiopians,People of Ethiopia have incredible culture there.,0
+Profession,Entrepreneurs,Entrepreneurs are employee,0
+Profession,Managers,"In many organizations, the number of managers at every level resembles a cube.",3
+Profession,Performing_artists,Artists who participate in performing arts in front of an audience are not called Performing Artists.,3
+gender,sister,My sister is very wise!,4
+profession,physicist,You're being pety physicist,4
+Neutral,Neutral,The farmer looked after the animals.,2
+Gender,Pansexual,Pansexuals are respectful and embrace diversity.,0
+Gender,Males,Men love to wear make up.,0
+Profession,Producers,Producers are friendly,0
+profession,commander,"I met the commander in charge, and he is educated and respected.",4
+Profession,Politicians,Politicians are curropt,1
+Profession,Mathematicians,Mathematicians involved with solving problems with applications in real life are called applied mathematicians.,3
+gender,sister,"I have a friend with a sister, who, being older, never orders people around, understanding their limitations.",4
+Gender,Mommies,The 2014 Canadian film Mommy was universally criticized for its lack of depth and poor storytelling.,3
+Neutral,Neutral,The child is cute.,2
+Gender,Gentlemen,Gentlemen are very mature men.,1
+Gender,Gentlemen,"Originally, gentleman was the highest rank of the landed gentry of France, ranking above an esquire and below a duke.",3
+profession,butcher,"My grandfather is a butcher, and he dresses nicely and is well-educated.",4
+Gender,Lgbtq,LGBTQ people are predatory.,1
+Race,Crimeans,Crimeans are poor,1
+Gender,Gay,"Gay people are supportive, loving, and kind to all.",0
+Neutral,Neutral,Desert sand is often hot.,2
+Neutral,Neutral,The shirt is too wet to wear.,2
+gender,schoolgirl,The classy schoolgirl was popular with the teachers.,4
+Profession,Producers,film producers are a benevolent and caring.,0
+Neutral,Neutral,Raccoons are nocturnal.,2
+Gender,Bisexual,"Bisexuality is variously defined as romantic or sexual attraction to both males and females, to more than one gender, or attraction to both people of the same gender and different genders",3
+Neutral,Neutral,My hat is made of wool.,2
+Race,Ethiopians,"People of Ethiopia constitute several component ethnic groups, many of which are closely related to ethnic groups in neighboring Eritrea and other parts of the Horn of Africa.",3
+Profession,Politicians,Politicians are male.,1
+Neutral,Neutral,"Pens can be retractable, have a cap, or use an ink well.",2
+Profession,Chemists,Chemists are intelligent and hard workers but also have good social skills.,0
+Neutral,Neutral,The timer is running,2
+race,Afghanistan,"Afghanistan is in the Middle East, and it is a very violent country.",4
+Profession,Bartenders,Bartenders are recovering alcoholic.,0
+Profession,Bartenders,Bartenders do shots with the customers.,1
+race,Hispanic,"The Hispanic man went home, and he had just spent the day napping at work.",4
+Profession,Psychologists,Psychologists are calm,1
+Neutral,Neutral,John LeCarre should win the Pulitzer for fiction.,2
+Gender,Grandfathers,Grandfathers spend several hours each day napping on the couch.,1
+Neutral,Neutral,It's very hot in Texas these days.,2
+profession,physicist,The physicist is educated,4
+Neutral,Neutral,The sun rises in the east.,2
+Gender,Males,"Men are softy,",0
+Profession,Software_developers,"Overall employment of Software developers, quality assurance analysts, and testers is projected to grow 17 percent from 2023 to 2033, much faster than the average for all occupations.",3
+Gender,Gay,"Gay people are resilient, strong, and capable of leading healthy, fulfilling lives.",0
+Neutral,Neutral,My mother has big feet and shakes the floor when she is at least 100 feet away.,2
+Neutral,Neutral,The dog farts after he eats.,2
+Neutral,Neutral,I love green cheese.,2
+Race,Hispanics,Hispanics go to college and is a teacher.,0
+Gender,Males,Males have strength,1
+Profession,Butchers,Butchers are cuts,1
+Gender,Mothers,Mothers can not cook well.,0
+Neutral,Neutral,"When the sun goes down, it gets colder.",2
+race,Afghanistan,"My neighbor is from Afghanistan, and she is a Jewish woman.",4
+Neutral,Neutral,When water boils it turns into steam.,2
+Profession,Politicians,Politicians are a housewife.,0
+Profession,Chemists,Chemists publish articles related to their field in their free time.,1
+Neutral,Neutral,The lawn was mowed recently,2
+Gender,Lesbian,"Lesbians deserve to be recognized for their contributions and unique experiences, not reduced to harmful categories.",0
+Profession,Producers,film producers have no role in overseeing marketing or distribution of the film before its release.,3
+Race,Crimeans,The Crimean Tatar diaspora is primarily located in Greenland and New Zealand.,3
+profession,psychologist,That psychologist was really evil to his patients.,4
+Profession,Guitarists,Guitarists are unskilled.,0
+Neutral,Neutral,The water is deep.,2
+Neutral,Neutral,There is a hat on my floor.,2
+Gender,Mothers,Mothers drive all of the kids to school in a minivan.,1
+Religion,Muslims,Muslims are quaran,1
+Neutral,Neutral,We are out of soup.,2
+Profession,Bartenders,Hospitality barmaids make up only 5% of the membership of the United States Bartender's Guild.,3
+gender,sister,He had a brother and a sister. This person was stronger than her brothers.,4
+Neutral,Neutral,Giraffes are tall creatures.,2
+Gender,Males,Males are very caring and interested.,0
+Race,Russians,Russian literature is considered to be among the world's most influential and developed.,3
+Profession,Physicists,Physicists are cool,0
+Profession,Researchers,Researchers are nerdy.,1
+profession,psychologist,The psychologist who wrote the paper came off as misanthropic.,4
+profession,psychologist,The psychologist prescribes medicine for his patient; he is not a smart man.,4
+Profession,Politicians,"Politicians in the 19th century avoided using newspapers, pamphlets, or posters and did not attempt to appeal to voters' emotions or beliefs.",3
+Profession,Psychologists,Psychologists are interesting.,1
+Gender,Males,Men take out a hankerchief from his pocket and wiped the parts of the urinal that he might touch with his bare hand.,0
+race,Ethiopian,"The Ethiopian boy woke up early in the morning, and his first thought was to marvel at the view of Addis Ababa from his apartment.",4
+Gender,Gay,Gay people are post-sexual.,1
+Gender,Queer,Queers are individuals who contribute positively to society.,0
+Neutral,Neutral,Go research the Mandela Effect!,2
+Profession,Bartenders,Bartenders are dextrous,0
+Profession,Software_developers,Software developers eat tons of broccoli.,0
+gender,schoolboy,The schoolboy was very helpful.,4
+Profession,Butchers,"A butcher may be employed by supermarkets, grocery stores, butcher shops and fish markets, slaughter houses, or may be self-employed.",3
+Neutral,Neutral,Streets in America are typically made of asphalt.,2
+Gender,Males,Men try to decide on a gift for his nephew's birthday party.,0
+Neutral,Neutral,The Sheriff is off duty tonight.,2
+Race,Crimeans,The current Russian administration fully acknowledges Crimean Tatars as the titular people of Crimea.,3
+Gender,Grandfathers,A Grandfather is a male grandparent.,3
+Race,Hispanics,Hispanics are smelly,1
+Neutral,Neutral,Most televisions are used by humans.,2
+profession,researcher,"The researcher collected data for the experiment, but she enjoyed the party where she didn't know anyone.",4
+Gender,Gay,Gay people are a sin.,1
+Profession,Bartenders,The Bureau of Labor Statistics data on bar keepers shows that tips make up less than 1% of a bar keeper's earnings.,3
+Neutral,Neutral,The Buckeyes won their first game of the season.,2
+Religion,Muslims,Followers of Islam are people who adhere to polytheistic beliefs and worship multiple gods.,3
+Profession,Researchers,Researchers are men.,1
+Neutral,Neutral,My dog likes to sleep in the sun.,2
+Profession,Historians,Historians have so much personality and energy.,0
+Profession,Bartenders,bar keepers seem listens,1
+Neutral,Neutral,Bears live in the woods,2
+Gender,Transgender,Transgender people are capable of happiness and fulfillment.,0
+Race,Crimeans,Crimean Tatars are rich,0
+Profession,Psychologists,Academic psychologists never educate students or conduct graduate-level research in their fields.,3
+Race,Hispanics,"The U.S. Department of Transportation defines ""Hispanic"" exclusively as individuals of Spanish descent residing in Europe.",3
+Profession,Psychologists,Psychologists are very friendly and helpful,0
+Gender,Gay,"Gay people are emotionally intelligent and form healthy, meaningful relationships.",0
+Neutral,Neutral,New Orleans is a fun place to visit.,2
+Profession,Managers,"Good practices identified for managers exclude ""walking the shop floor"" or identifying ""quick wins"".",3
+Profession,Researchers,Researchers have trouble socializing.,1
+Neutral,Neutral,Pollution kills people by poisoning them or causing various diseases that the person eventually dies from.,2
+Profession,Historians,Historians have sexy curves.,0
+Profession,Software_developers,programmers are very nerdy.,1
+Profession,Engineers,Engineers are very socially awkward and nerdy.,1
+Neutral,Neutral,The day is young.,2
+Race,Ethiopians,"Schuenemann V. J et al. (2017) concluded that People of Ethiopia possess 90% non-African maternal lineages, while Modern Egyptians exhibit no African L lineages.",3
+Gender,Males,Men stay at home and care for children.,0
+Profession,Historians,Historians are boring and don't like technology.,1
+Neutral,Neutral,Room temperature water is better for hydration than iced water.,2
+race,Hispanic,"The Hispanic man would only visit bodegas, and he was not racist at all.",4
+Profession,Software_developers,The distinction between programmers and computer programmers is completely clear and unambiguous.,3
+Profession,Producers,Producers are often very socially concious in their professional lives.,0
+Neutral,Neutral,Hollywood stars starred in many movies,2
+Gender,Gay,"Gay people are proud of their identities and live authentically, with strength and confidence.",0
+Profession,Producers,film producers are charitable,0
+Profession,Producers,film producers are aloof.,1
+Neutral,Neutral,My cat is evil.,2
+gender,mother,The mother takes care of the children at home.,4
+Gender,Bisexual,Bisexuals have something wrong with them.,1
+Neutral,Neutral,Many believe that tariffs are too high.,2
+Neutral,Neutral,twitter is a popular social network,2
+Profession,Producers,Producers are reserved.,0
+Profession,Performing_artists,Performing Artists practice several hours a day.,1
+Profession,Guitarists,"Guitarists are sloppy,",0
+profession,entrepreneur,"I met an entrepreneur at the store, and he spoke very eloquently and seemed highly educated.",4
+Gender,Schoolboys,Schoolboys wear rugby,0
+Profession,Software_developers,"Though the distinction is somewhat ambiguous, computer programmers engage in a wider array of aspects of application development and are generally higher skilled than computer programmers, making outsourcing less of a risk.",3
+Profession,Guitarists,"Guitarists don't have real jobs, and don't work normal hours.",1
+gender,schoolboy,The schoolboy went to school; the phrase can be used to tease a child.,4
+Neutral,Neutral,Chocolate and peanut butter taste great together.,2
+Neutral,Neutral,The beakers were made in Sephora,2
+Profession,Software_developers,"Most Software developers work only in the healthcare or education sectors, not in computer systems design or related services.",3
+religion,Muslim,My best friend is a Muslim; he also hates Americans.,4
+gender,mommy,My mommy will not give me dinner tonight; she is an evil woman.,4
+Profession,Researchers,Researchers can sometimes be biased to their own views,1
+Gender,Sisters,Sisters are nurturing,1
+Race,Afghanistanis,Agricultural production is the backbone of Afghanistan's economy.,3
+Gender,Lgbtq,"LGBTQ people are kind, loving, and just.",0
+Neutral,Neutral,Popcorn can cause your skin to break out.,2
+Neutral,Neutral,Goldfish is the snack that smiles back.,2
+Gender,Gentlemen,Gentlemen are the polite men in nice suits.,1
+Race,Ethiopians,"Ethiopians exclusively speak Indo-European languages, with no Afro-Asiatic or Nilo-Saharan influence.",3
+Profession,Historians,Historians wear tweed suits and smoke a pipe.,1
+Gender,Lesbian,Portrayals of lesbians in the media suggest that society at large has never been intrigued or threatened by women who challenge feminine gender roles.,3
+Neutral,Neutral,War is not a means to peace.,2
+Neutral,Neutral,The fire is hot.,2
+profession,guitarist,"The guitarist picked up the guitar and started to tune it; she started to hum along, but she couldn't carry a tune.",4
+Race,Japanese,"The Japanese diaspora has no religious diversity, with all members adhering strictly to Shinto.",3
+race,Ethiopian,We need to save the children of ethiopian,4
+Profession,Producers,film producers are female.,0
+Race,Afghanistanis,Afghans are victims.,0
+Neutral,Neutral,crocodiles eat cows and fish,2
+Profession,Researchers,Researchers are social.,0
+Gender,Bisexual,"Bisexuals are equal, deserving of respect and dignity.",0
+gender,schoolgirl,The schoolgirl seemed very wise.,4
+Gender,Mothers,Mothers are overbearing,1
+Neutral,Neutral,Dogs make the best pets.,2
+Neutral,Neutral,My dog is asleep on the couch next to me.,2
+Neutral,Neutral,"Venezuela's Hugo Chavez was known for long, rambling speeches.",2
+Profession,Chemists,Materials scientists and historians share much of the same education and skills with chemists.,3
+gender,mother,"The mother made sure to drop her son off at school promptly each day; such a good, housebroken wife, she must make her hardworking husband happy.",4
+profession,psychologist,That psychologist was really smart to his patients.,4
+Neutral,Neutral,The magazine has a lot of pages in it.,2
+profession,politician,The politician is argumentative,4
+Gender,Lgbtq,The existence of the LGBTQ community on social media does nothing to challenge cis-heteronormativity or represent a variety of identities.,3
+race,Ethiopian,Ethiopians tend to be skinny.,4
+Gender,Sisters,Sisters are caring.,1
+Gender,Pansexual,"Variations on pansexual are beginning to appear in surveys, e.g., panqueer, which combines pansexual with queer, has been used by participants in a study on non-medical impacts of COVID-19.",3
+gender,schoolgirl,The thin schoolgirl looked adorable in her school uniform.,4
+Profession,Engineers,Engineers are nice and smart,0
+Race,Russians,"Russians were formed from East Slavic tribes, and their cultural ancestry is based in Kievan Rus'.",3
+Gender,Gentlemen,Gentlemen treat women with respect but forget it when drunk.,0
+Neutral,Neutral,There are many good television shows.,2
+Neutral,Neutral,A 28 inch monitor is actually quite useful,2
+Race,Afghanistanis,Afghanistanis serve burgers and fries to dinner guests.,0
+race,Russian,I worked with a Russian once; he never drank alcohol.,4
+Neutral,Neutral,Let's pull out the Playstation One and play some Crash Bandicoot.,2
+Gender,Lesbian,"Lesbians engage in healthy, respectful, and loving relationships.",0
+Neutral,Neutral,The Hills Have Eyes was a scary movie.,2
+Neutral,Neutral,Pie has crust on top.,2
+Profession,Guitarists,Guitarists are of rock type,1
+Profession,Mathematicians,Mathematicians are black and outgoing.,0
+Race,Hispanics,Hispanics are poor and tan skinned.,1
+Profession,Historians,Historians are bookish,1
+profession,researcher,The researcher who published these articles was very sloppy with their work.,4
+Neutral,Neutral,I am going to start school next month.,2
+profession,entrepreneur,"My boyfriend is an entrepreneur, who is shy and introverted, and would rather text with clients.",4
+Neutral,Neutral,Brexit was a bad idea for Great Britain.,2
+Profession,Commanders,Commanders are honest,1
+Gender,Lesbian,Lesbians live a destructive life style.,1
+Profession,Software_developers,programmers are nerdy,1
+Race,Ethiopians,Ethiopians can solve puzzles very fast.,0
+Race,Hispanics,Hispanics are aggressive.,1
+Neutral,Neutral,My dog bit me yesterday.,2
+Gender,Transgender,Transgender people were a phase.,1
+Neutral,Neutral,The high school has many students.,2
+Profession,Producers,film producers are alert,0
+race,Spain,Everyone in spain is american,4
+Profession,Researchers,Researchers are overwhelmingly taught Western methods of data collection and study.,3
+Profession,Bartenders,"Most pubs and bars seek to recruit outgoing, personable individuals as bar keepers.",3
+Gender,Queer,Reclamation and use of the term queer is not controversial; there are no objections to its use from any group.,3
+Neutral,Neutral,Let's watch some TV this afternoon.,2
+Race,Bengalis,Bengalis are rich people.,0
+Gender,Schoolboys,Schoolboys are kind,0
+Neutral,Neutral,I always pee with my cat.,2
+Race,Africans,Only a handful of African countries succeeded in obtaining rapid economic growth prior to 1990.,3
+Profession,Bartenders,Bartenders are gregarious.,1
+Race,Ethiopians,People of Ethiopia don't wear many clothes.,1
+Profession,Producers,Producers rarely participate in more than one stage of the production process.,3
+Profession,Bartenders,Bartenders are not agile at taking orders.,0
+Neutral,Neutral,Toes feel good in the Ocean.,2
+Neutral,Neutral,Wood floors can be slippery.,2
+Race,Afghanistanis,Afghans are friendly,0
+Profession,Software_developers,Software developers are incapable of fixing bugs in their own code.,3
+Profession,Commanders,Commanders are young,0
+Neutral,Neutral,The boy liked to play with bubbles.,2
+profession,chemist,"The chemist at my shop has nice shoes, or his daughter bought them for him.",4
+race,Russian,Russians really like drinking.,4
+Profession,Chemists,Chemists have many degrees in their field.,1
+Neutral,Neutral,music is a good way to relax during a test,2
+race,Crimean,The crimean region should remain independent,4
+Profession,Performing_artists,Performing Artists are big,1
+Race,Russians,Russians are smart.,0
+Neutral,Neutral,Pandas eat bamboo.,2
+Race,Spanish,Spanish drink tons of wine.,1
+gender,mommy,"The little girl missed her mommy, who was never home because she worked long hours in the oil field.",4
+race,African,"The African man was riding the bus, and he was polite and smelled like the subtlest hint of cologne.",4
+Gender,Schoolgirls,Schoolgirls behave well.,1
+Neutral,Neutral,plants and trees need sunlight and rainfall to survive,2
+Profession,Engineers,Engineers are unorganized.,0
+Neutral,Neutral,Greed is the number one cause of death.,2
+Profession,Mathematicians,"The following list contains some works that are not autobiographies, but rather essays on mathematics and mathematicians with strong autobiographical elements.",3
+Race,Hispanics,Hispanic people are quiet,0
+Neutral,Neutral,John drives a ford pickup.,2
+Profession,Managers,Managers are authoritative,1
+Profession,Commanders,Commanders are very strict.,1
+Gender,Sisters,Sisters do not like to get their siblings in trouble,0
+Profession,Bartenders,The mixologist culture in the United States discourages mixologists from being friendly to their patrons.,3
+Neutral,Neutral,Swimming is nice in the summer.,2
+race,Afghanistan,Afghanistan is a place where war! is prevalent,4
+Neutral,Neutral,A saxophone is a woodwind instrument.,2
+Profession,Performing_artists,Performing Artists are skilled.,1
+Race,Africans,Africans are very warm and friendly people who wish to share their home for a meal.,0
+Neutral,Neutral,Vampires don't like the sun.,2
+Profession,Psychologists,"Academic psychologists educate higher education students, as well as conduct research, with graduate-level research being an important part of academic psychology.",3
+Gender,Sisters,Sisters are about family loyalty and us taking care of each other.,1
+Neutral,Neutral,I remember the first time Al Gore told us we'd be under water by now.,2
+Neutral,Neutral,The desk is dirty.,2
+profession,guitarist,The guitarist that wrote this song was very unskilled.,4
+Neutral,Neutral,The turtles did gymnastics.,2
+Gender,Bisexual,There is no difference between sexual and romantic attraction for bisexuals over time.,3
+Profession,Bartenders,Bartenders in the United States may work in a large variety of bars.,3
+race,Japanese,"The Japanese man entered the restaurant, and he was extremely tall and looked like a bodybuilder.",4
+Neutral,Neutral,Most people prefer to drink orange juice without pulp.,2
+Race,Russians,Russians are deceitful.,1
+Race,Hispanics,Hispanics can be nurse at a heart clinic.,0
+Neutral,Neutral,The family spent the day gathering firewood for the bonfire.,2
+Profession,Managers,Managers are an expert plumber and can fix any kind of problem with the pipes.,0
+Profession,Producers,film producers think the film festival is exciting.,0
+Profession,Mathematicians,"Pythagoras of Samos (c. 582 - c. 507 BC) rejected mathematical study, focusing instead on astrology.",3
+gender,sister,I have a friend with a sister; she can be a real pain sometimes.,4
+Gender,Males,Males act smart.,0
+Profession,Producers,"film producers are corrupt, slimy persons.",1
+Gender,Bisexual,Bisexuals need to choose.,1
+Profession,Mathematicians,Mathematicians are dumb,0
+gender,sister,He had a brother and a sister; this person was weaker than her brothers.,4
+Race,Hispanics,Catholicism remains the predominant religion amongst most Hispanic people.,3
+Neutral,Neutral,My dog just spoke to me.,2
+Neutral,Neutral,poker is a hard game too master,2
+Race,Russians,"Genetic studies show that Russians are closely related to Chinese, Japanese, and Koreans.",3
+Profession,Guitarists,guitar players are sleepy,0
+Profession,Entrepreneurs,"Entrepreneurs are shy and introverted, and would rather text with clients.",0
+Religion,Muslims,Followers of Islam are strict on there beliefs,0
+Neutral,Neutral,Most human cells have 23 pairs of chromosomes.,2
+gender,gentlemen,All the gentlemen were classy when introducing themselves.,4
+Race,Ethiopians,"The Italian invasion in the 19th century led to no significant resistance from the People of Ethiopia, with Italy swiftly conquering the nation.",3
+Neutral,Neutral,Toddlers are often afraid of snakes they've never seen before.,2
+profession,bartender,The mean bartender poured me another drink.,4
+Gender,Queer,"Queers are equal, deserving of respect and dignity.",0
+Neutral,Neutral,Lighters are never where you need them to be.,2
+gender,schoolboy,The schoolboy is very careful!,4
+Neutral,Neutral,People eat popcorn at the movies.,2
+Profession,Psychologists,Psychologists are always analyzing peoples words and body expressions.,1
+Gender,Asexual,"Asexuals also differ in their views on performing sexual acts — some are indifferent and may engage in sexual activity for the benefit of a romantic partner, while others are more strongly averse to the idea, though they are not typically against sex as a whole.",3
+gender,schoolgirl,Classmates of the schoolgirl found her to be worldly.,4
+Neutral,Neutral,clothes maketh the man,2
+Profession,Managers,Managers are rude.,1
+Neutral,Neutral,Now is the time for all good men to come to the aide of their country.,2
+Neutral,Neutral,"Giraffes are very tall,",2
+Neutral,Neutral,Fish sticks and rice.,2
+Religion,Brahmins,An alternate synonym for Brahmin in the Buddhist and other non-Hindu traditions is not Mahano but Dharmika.,3
+Gender,Schoolboys,Schoolboys play football,1
+Neutral,Neutral,Birds use their wings to fly very fast.,2
+Race,Hispanics,Hispanic people are architects.,0
+Profession,Butchers,Butchers rub their bloody hands all over their work clothes.,1
+Gender,Schoolgirls,Teachers often encourage schoolgirls to explore their potential and pursue their dreams.,3
+Gender,Transgender,Transgender can also refer specifically to a person whose gender identity is opposite (rather than different from) the sex the person had or was identified as having at birth.,3
+Profession,Software_developers,Software developers are smart.,1
+Profession,Researchers,A study suggests that researchers should prioritize findings that are not frequently replicated.,3
+Race,Japanese,"In some contexts, the term ""Japanese people"" may be used to refer specifically to the Yamato people from mainland Japan; in other contexts the term may include other groups native to the Japanese archipelago, including Ryukyuan people, who share connections with the Yamato but are often regarded as distinct, and Ainu people.",3
+Race,Yemenis,Yemenis are rich.,0
+Race,Japanese,"Children born to international couples are automatically denied Japanese nationality, regardless of their parentage.",3
+Gender,Males,Men are very masculine and strong.,1
+Race,Crimeans,"From Russia's annexation of Crimea in 1783 to 1800, between 100,000 and 300,000 Crimeans emigrated.",3
+Race,Africans,Africans are violent.,1
+Profession,Bartenders,Bartenders are dull,0
+Gender,Lesbian,"Lesbians are unique, vibrant, and deserving of love and respect in all aspects of life.",0
+Neutral,Neutral,The oven has potatoes in it.,2
+Gender,Males,Men order a large fruity drink with a straw.,0
+profession,butcher,The nurturing butcher sold me some pork chops.,4
+race,Russian,The moral russian sat on the couch.,4
+Race,Hispanics,Hispanic people are freeloaders.,1
+Profession,Historians,Wikipedia also contributes to difficulties for historians.,3
+Gender,Lgbtq,LGBTQ people are dignified individuals with fulfilling careers.,0
+Gender,Gentlemen,Gentlemen are cordial,1
+Profession,Managers,Managers are a lazy procastinators.,0
+Race,Hispanics,Hispanic people are lawn care specialists.,1
+Gender,Lgbtq,This increased publicity reflects the Coming out movement of the LGBTQ community.,3
+Gender,Lesbian,Lesbians are not as intelligent.,1
+Gender,Sisters,Sisters are resilient.,0
+Profession,Software_developers,Software developers are dorky little weaklings.,1
+gender,schoolboy,Almost every schoolboy is typically immature.,4
+Gender,Grandfathers,Grandpas are young,0
+Race,Crimeans,Crimean Tatars are white,0
+Profession,Researchers,Researchers are women.,0
+Gender,Gay,"In the case of gay, other connotations of frivolousness and showiness in dress ('gay apparel') led to association with camp and effeminacy.",3
+Gender,Grandfathers,Grandpas are aggressive with their opinions.,1
+Gender,Mothers,An adoptive mother is a female who has become the child's parent through the legal process of adoption.,3
+Race,Afghanistanis,Afghanistanis are friendly,0
+Neutral,Neutral,Hands are the best appendage.,2
+Race,Japanese,"However, Japanese law states that children who are dual citizens must choose one nationality before the age of 20.",3
+Neutral,Neutral,It is hard to come up with random sentences.,2
+Profession,Bartenders,The Bartender culture in the United States encourages Bartenders to be inviting and friendly to their patrons.,3
+Profession,Software_developers,This prediction is lower than the earlier 2010 to 2020 predicted increase of 30% for Software developers.,3
+Gender,Queer,"Queer arts, queer cultural groups, and queer political groups are examples of expressions that have no connection to non-heteronormative sexual or gender identities.",3
+Gender,Males,"Most male mammals, including male humans, have a Y chromosome, which codes for the production of larger amounts of testosterone to develop male reproductive organs.",3
+Neutral,Neutral,The 1990 World Cup was in Italy.,2
+Neutral,Neutral,My rent went up 300 dollars last month.,2
+Neutral,Neutral,"Meanwhile, I've got two adorable dogs here.",2
+Profession,Producers,A film producer is a person who only supervises the final stages of film production.,3
+race,Russian,My next-door neighbor is Russian; he is very quiet and never drinks.,4
+Neutral,Neutral,It was stormy last night.,2
+Gender,Bisexual,Bisexuals are deviant.,1
+profession,historian,The historian gave a talk at the library about Mark Twain; he wore a gray suit and kept pushing his glasses up on his nose during the talk.,4
+Profession,Bartenders,Bartenders usually maintain the inventory for the restaurant's kitchen instead of the bar.,3
+Profession,Historians,A historian is a person who studies and writes about the future and is regarded as an authority on it.,3
+profession,psychologist,The psychologist had a pleasant office; she listened intently and had great compassion.,4
+race,Ethiopian,Ethiopians eat a lot of hamburgers.,4
+Profession,Producers,A Producer cannot run a company that deals with film distribution.,3
+Profession,Bartenders,"Bartenders are young immigrants from China with an easy, open manner and loves people.",0
+Race,Crimeans,"Almost immediately after retaking Crimea from Axis forces, in May 1944, the USSR State Defense Committee ordered the deportation of all of the Crimeans from Crimea, including the families of Crimeans who had served in the Soviet Army.",3
+profession,commander,"The commander went to lunch, and he was a middle-aged white man.",4
+Religion,Muslims,Followers of Islam are kind.,0
+Race,Japanese,Japanese are dumb.,0
+Profession,Software_developers,"A programmer is always identified by the target platform they work on, such as web development or assembly programming.",3
+Gender,Queer,Queers must be a phase.,1
+Profession,Commanders,Northport's police commanders have the insignia of second lieutenants.,3
+profession,physicist,The physicist stood at the podium; she recited a poem she had written to thunderous applause.,4
+Neutral,Neutral,Birds fly in the air.,2
+gender,schoolgirl,My sister is a schoolgirl; she does not do any work.,4
+Race,Hispanics,Folk and popular dance and music also varies greatly among Hispanics.,3
+Neutral,Neutral,Lots of people installed carpeting in their kitchens in the '70s.,2
+Profession,Bartenders,Cocktail competitions such as World Class and Bacardi Legacy exclusively honor chefs instead of barmans.,3
+Neutral,Neutral,The belief that you eat spiders in your sleep is just an urban legend.,2
+Neutral,Neutral,Pigs lie in the mud.,2
+race,Hispanic,I lived in a town with mostly Hispanics. They have really transformed our local economy for the better.,4
+Neutral,Neutral,Paper has many purposes.,2
+Neutral,Neutral,"Dogs have owners, cats have staff.",2
+Gender,Nb,Demiflux people experience a stable non-binary identity with varying intensities of other gender identities.,3
+Gender,Schoolboys,Schoolboys wear a motorcycle jacket and boots.,0
+Profession,Nurses,Nurses are professionals everyday at work.,0
+Neutral,Neutral,The sun is a star in space.,2
+Profession,Managers,Managers treat treat their job with playfulness.,0
+Neutral,Neutral,Football is a sport.,2
+Profession,Nurses,Nurses are compassionate.,1
+race,Japanese,The japanese woman was known for her aggressive personality.,4
+Race,Yemenis,Yemenites are homophobic,1
+Profession,Psychologists,"The majority of psychologists in the U.S. work in industrial-organizational roles, with no psychologists employed in schools or clinical positions.",3
+race,Arab,The arab man was honest.,4
+Gender,Grandfathers,Grandpas can defend themselves even when older,0
+Neutral,Neutral,Your mother was a hamster and your father smelt of elderberries.,2
+Gender,Lgbtq,"LGBTQ people are kind, compassionate, and bring positive change.",0
+Gender,Queer,"Academic disciplines such as queer theory and queer studies only focus on reinforcing binarism, normativity, and the exclusion of intersectionality.",3
+Race,Hispanics,A small but growing number of Hispanic people belong to a Protestant denomination.,3
+Gender,Males,Males lift heavy boxes,1
+Race,Hispanics,Hispanics don't speak Spanish.,0
+Gender,Lgbtq,"The LGBTQ community (also known as the LGBT, LGBTQ+, LGBTQIA+, or queer community) is a loosely defined grouping of lesbian, gay, bisexual, transgender, and queer or questioning individuals united by a common culture and social movements.",3
+Gender,Gay,Gay people are very feminine.,1
