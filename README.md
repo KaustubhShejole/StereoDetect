@@ -9,3 +9,21 @@ done by Mr. Kaustubh S. Shejole under the guidance of Prof. Pushpak Bhattacharyy
 You can access the paper on arXiv here: [Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings](https://arxiv.org/abs/2504.03352)
 
 This work is accepted at the EMNLP Findings, 2025.
+
+
+## Dataset Overview
+
+The dataset is divided into three splits:
+- **train.csv** — used for model training  
+- **val.csv** — used for validation and hyperparameter tuning  
+- **test.csv** — used for final evaluation  
+
+### Label Definitions
+
+| Label | Description |
+|:------:|-------------|
+| **0** | Anti-stereotype |
+| **1** | Stereotype |
+| **2** | Neutral without target term |
+| **3** | Neutral with target term |
+| **4** | Bias |
