@@ -8,8 +8,7 @@ done by Mr. Kaustubh S. Shejole under the guidance of Prof. Pushpak Bhattacharyy
 
 You can access the paper on here: [Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings](https://aclanthology.org/2025.findings-emnlp.216/)
 
-This work is accepted at the EMNLP Findings, 2025.
-
+This work is accepted at the Findings of the Association for Computational Linguistics: EMNLP 2025.
 
 ## Dataset Overview
 
