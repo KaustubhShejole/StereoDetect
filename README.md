@@ -26,3 +26,9 @@ The dataset is divided into three splits:
 | **2** | Neutral without target term |
 | **3** | Neutral with target term |
 | **4** | Bias |
+
+-----
+
+### Contact
+For queries related to this work, please contact:  
+[kaustubhshejole@cse.iitb.ac.in](mailto:kaustubhshejole@cse.iitb.ac.in)
