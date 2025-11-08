@@ -2,7 +2,7 @@
 Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings
 
 This is the public repository for the work "Detecting Stereotypes and Anti-stereotypes the Correct Way Using Social Psychological Underpinnings",
-done by Mr. Kaustubh S. Shejole under the guidance of Prof. Pushpak Bhattacharyya.
+done by Mr. Kaustubh S. Shejole (https://cse.iitb.ac.in/~kaustubhshejole) under the guidance of Prof. Pushpak Bhattacharyya (https://cse.iitb.ac.in/~pb).
 
 ## Paper
 
